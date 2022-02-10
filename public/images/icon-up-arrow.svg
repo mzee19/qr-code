@@ -1,0 +1,14 @@
+<svg id="icon-arrow" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="27" viewBox="0 0 27 27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #d5e3ed;
+        stroke-linejoin: round;
+        stroke-width: 1px;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_9_copy_2" data-name="Ellipse 9 copy 2" class="cls-1" cx="13.5" cy="13.5" r="13"/>
+  <image id="upload_copy_3" data-name="upload copy 3" x="7.5" y="9.5" width="13" height="7" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAHCAYAAADTcMcaAAAAjUlEQVQYlYXQvQ5BQRAG0ENEFB7Dq2i9wG0lF52CqDQqiej8q+gVnk1EI2SSlVxyE18zu9k9k9mt1NtnJengiC6uv8fVEpDhgkeq2T8UF044oJVq7L9grbDuYYU9BnilGgnYxK6I+lhjgXECkQ+8YZsm2wQaYok5JiVvDDjCMzVuBMoxxazsGwuJhnfkbw+bHO2RviFRAAAAAElFTkSuQmCC"/>
+</svg>
