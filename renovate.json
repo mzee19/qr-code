@@ -8,7 +8,7 @@
         "regexManagers:dockerfileVersions"
     ],
     "baseBranches": [
-        "development"
+        "main"
     ],
     "docker": {
         "pinDigests": true
