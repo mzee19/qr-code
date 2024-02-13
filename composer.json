@@ -28,7 +28,7 @@
         "nesbot/carbon": "^2.24",
         "niklasravnsborg/laravel-pdf": "^4.0",
         "orangehill/iseed": "^2.6",
-        "phpoffice/phpspreadsheet": "^1.17",
+        "phpoffice/phpspreadsheet": "^2.0",
         "pragmarx/google2fa": "^8.0",
         "pragmarx/google2fa-laravel": "^1.4",
         "simplesoftwareio/simple-qrcode": "~4",
