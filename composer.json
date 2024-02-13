@@ -25,7 +25,7 @@
         "meyfa/php-svg": "^0.11.2",
         "mollie/laravel-mollie": "^2.10",
         "mollie/mollie-api-php": "^2.0",
-        "nesbot/carbon": "^2.24",
+        "nesbot/carbon": "^3.0",
         "niklasravnsborg/laravel-pdf": "^4.0",
         "orangehill/iseed": "^2.6",
         "phpoffice/phpspreadsheet": "^1.17",
