@@ -28,8 +28,8 @@
     "dependencies": {
         "card-validator": "^6.2.0",
         "cryptr": "^6.0.2",
-        "datatables.net": "^1.10.21",
-        "datatables.net-bs4": "^1.10.22",
+        "datatables.net": "^2.0.0",
+        "datatables.net-bs4": "^2.0.0",
         "datatables.net-responsive": "^2.2.6",
         "i18next": "^19.7.0",
         "i18next-xhr-backend": "^3.2.2",
