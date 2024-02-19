@@ -30,7 +30,7 @@
         "cryptr": "^6.0.2",
         "datatables.net": "^1.10.21",
         "datatables.net-bs4": "^1.10.22",
-        "datatables.net-responsive": "^2.2.6",
+        "datatables.net-responsive": "^3.0.0",
         "i18next": "^19.7.0",
         "i18next-xhr-backend": "^3.2.2",
         "moment": "^2.27.0",
