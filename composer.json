@@ -35,7 +35,7 @@
         "spatie/icalendar-generator": "^1.0",
         "srmklive/paypal": "~1.0",
         "torann/hashids": "^2.0",
-        "tymon/jwt-auth": "1.0.*",
+        "tymon/jwt-auth": "2.1.*",
         "yajra/laravel-datatables-oracle": "~9.0"
     },
     "require-dev": {
