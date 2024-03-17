@@ -36,7 +36,7 @@
         "srmklive/paypal": "~1.0",
         "torann/hashids": "^2.0",
         "tymon/jwt-auth": "1.0.*",
-        "yajra/laravel-datatables-oracle": "~9.0"
+        "yajra/laravel-datatables-oracle": "~11.0"
     },
     "require-dev": {
         "facade/ignition": "^1.4",
