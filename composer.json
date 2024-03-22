@@ -23,7 +23,7 @@
         "league/flysystem-aws-s3-v3": "^1.0",
         "maatwebsite/excel": "^3.1",
         "meyfa/php-svg": "^0.11.2",
-        "mollie/laravel-mollie": "^2.10",
+        "mollie/laravel-mollie": "^3.0",
         "mollie/mollie-api-php": "^2.0",
         "nesbot/carbon": "^2.24",
         "niklasravnsborg/laravel-pdf": "^4.0",
