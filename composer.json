@@ -29,7 +29,7 @@
         "niklasravnsborg/laravel-pdf": "^4.0",
         "orangehill/iseed": "^2.6",
         "phpoffice/phpspreadsheet": "^1.17",
-        "pragmarx/google2fa": "^8.0",
+        "pragmarx/google2fa": "^9.0",
         "pragmarx/google2fa-laravel": "^1.4",
         "simplesoftwareio/simple-qrcode": "~4",
         "spatie/icalendar-generator": "^1.0",
